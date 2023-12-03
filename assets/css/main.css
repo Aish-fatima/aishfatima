@@ -19778,3 +19778,50 @@ html[tp-theme=tp-theme-light] .tp-menu-2 .tp-main-menu-mobile > nav > ul > li.ha
 }
 
 /*# sourceMappingURL=main.css.map */
+
+/* IWC Section CSS */
+.community-section {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  gap: 2%;
+  margin-top: 2rem;
+}
+
+.community-text {
+  color: white;
+  font-size: 1rem;
+  margin: 0;
+  font-family: 'math';
+}
+
+.iwc-button {
+  color: white;
+  font-size: 1rem;
+  border-width: 1px;
+  border-color: white;
+  border-style: solid;
+  padding: 0.1rem 2rem;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: 'math';
+}
+
+.iwc-button:hover {
+  color: white;
+}
+
+.iwc-button:link, .iwc-button:visited {
+  color: white;
+}
+
+.iwc-button:link:active, .iwc-button:visited:active {
+  color: white;
+}
+
+.visit-icon {
+  width: 1rem;
+  margin-left: 0.1rem;
+  margin-bottom: 0.2rem;
+}
