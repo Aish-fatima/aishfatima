@@ -19827,10 +19827,10 @@ html[tp-theme=tp-theme-light] .tp-menu-2 .tp-main-menu-mobile > nav > ul > li.ha
 }
 
 .contact-container {
-  justify-content: center;
+  justify-content: center !important;
 }
 
 .aish-fatima-img {
-  width: 100vw;
-  height: 90vh;
+  width: 100vw !important;
+  height: 90vh !important;
 }
