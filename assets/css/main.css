@@ -19825,3 +19825,12 @@ html[tp-theme=tp-theme-light] .tp-menu-2 .tp-main-menu-mobile > nav > ul > li.ha
   margin-left: 0.1rem;
   margin-bottom: 0.2rem;
 }
+
+.contact-container {
+  justify-content: center;
+}
+
+.aish-fatima-img {
+  width: 100vw;
+  height: 90vh;
+}
